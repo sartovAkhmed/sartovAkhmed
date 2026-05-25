@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi there 👋, I'm Akhmed
 
-<!--
-**sartovAkhmed/sartovAkhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🚀 Frontend Developer | Telegram Bot Developer | Roblox Scripter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building modern web applications, interactive interfaces and automation tools.
+
+</div>
+
+---
+
+## 💫 About Me
+
+* 💻 Frontend Developer with strong JavaScript experience
+* ⚡ Currently focused on **TypeScript** and modern frontend stack
+* 🤖 Developing Telegram bots using **Telegraf**
+* 🎮 Creating systems and scripts for **Roblox** with Lua
+* 🔥 Love building interactive and creative projects
+* 🚀 Always learning something new
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* HTML5
+* CSS3 / SCSS
+
+### ⚙️ Backend & APIs
+
+* Node.js
+* REST API
+* Fetch API
+* Axios
+* Telegram Bot API
+* Telegraf
+
+### 🎮 Roblox Development
+
+* Lua
+* Roblox Studio
+* Game Systems
+* UI Logic
+
+### 🧰 Tools
+
+* Git & GitHub
+* VS Code
+* Postman
+* Docker
+* Docker Compose
+* npm
+
+---
+
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUMA-ORIGINAL&theme=radical" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=KUMA-ORIGINAL&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced TypeScript
+* Backend Architecture
+* FullStack Development
+* AI & Automation
+* Robotics & Embedded Systems
+
+---
+
+## 🎯 Goals
+
+* Build powerful web applications
+* Create unique Telegram bots
+* Develop Roblox projects
+* Grow as a FullStack Engineer
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+</div>
