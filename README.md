@@ -58,11 +58,17 @@ Passionate about building modern web applications, interactive interfaces and au
 * npm
 
 ---
+TypeScript  █████████░░  80%
+React       ████████░░░  75%
+Telegram    ████████░░░  75%
+Lua         ██████░░░░░  60%
+Backend     █████░░░░░░  50%
+---
 
 ## 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sartovAkhmedL&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sartov-Akhmed&theme=radical" />
 </p>
 
 ---
