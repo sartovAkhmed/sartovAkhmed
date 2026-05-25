@@ -68,19 +68,12 @@ Backend     █████░░░░░░  50%
 ## 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sartov-Akhmed&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHMED-SARTOV&theme=radical" />
 </p>
 
 ---
-
-## ⚡ GitHub Stats
-
-<div align="center">
-
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sartovAkhmed&theme=radical&hide_border=true" />
-
-</div>
-
+⚡ GitHub Stats
+<p align="center"> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AKHMED-SARTOV&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=AKHMED-SARTOV&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHMED-SARTOV&layout=compact&theme=radical&hide_border=true" /> </p>
 ---
 
 ## 🧠 Currently Learning
