@@ -62,7 +62,7 @@ Passionate about building modern web applications, interactive interfaces and au
 ## 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUMA-ORIGINAL&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sartovAkhmedL&theme=radical" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Passionate about building modern web applications, interactive interfaces and au
 
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=KUMA-ORIGINAL&theme=radical&hide_border=true" />
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sartovAkhmed&theme=radical&hide_border=true" />
 
 </div>
 
