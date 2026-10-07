@@ -1,102 +1,76 @@
-# Hi there 👋, I'm Akhmed
-
 <div align="center">
 
-### 🚀 Frontend Developer | Telegram Bot Developer | Roblox Scripter
+# Привет, я Ахмед 👋
 
-Passionate about building modern web applications, interactive interfaces and automation tools.
+**Frontend-разработчик · Наставник · Разработчик Telegram-ботов**
+
+*Делаю современные веб-приложения, пишу ботов и учу детей и подростков программировать.*
+
+[Telegram](https://t.me/tutoshi) · [Email](mailto:akhmedturan@gmail.com) · [GitHub](https://github.com/AKHMED-SARTOV)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 Обо мне
 
-* 💻 Frontend Developer with strong JavaScript experience
-* ⚡ Currently focused on **TypeScript** and modern frontend stack
-* 🤖 Developing Telegram bots using **Telegraf**
-* 🎮 Creating systems and scripts for **Roblox** with Lua
-* 🔥 Love building interactive and creative projects
-* 🚀 Always learning something new
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* HTML5
-* CSS3 / SCSS
-
-### ⚙️ Backend & APIs
-
-* Node.js
-* REST API
-* Fetch API
-* Axios
-* Telegram Bot API
-* Telegraf
-
-### 🎮 Roblox Development
-
-* Lua
-* Roblox Studio
-* Game Systems
-* UI Logic
-
-### 🧰 Tools
-
-* Git & GitHub
-* VS Code
-* Postman
-* Docker
-* Docker Compose
-* npm
-
----
-TypeScript  █████████░░  80%
-React       ████████░░░  75%
-Telegram    ████████░░░  75%
-Lua         ██████░░░░░  60%
-Backend     █████░░░░░░  50%
----
-
-## 📊 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKHMED-SARTOV&theme=radical" />
-</p>
-
----
-⚡ GitHub Stats
-<p align="center"> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AKHMED-SARTOV&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=AKHMED-SARTOV&show_icons=true&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHMED-SARTOV&layout=compact&theme=radical&hide_border=true" /> </p>
----
-
-## 🧠 Currently Learning
-
-* Advanced TypeScript
-* Backend Architecture
-* FullStack Development
-* AI & Automation
-* Robotics & Embedded Systems
+- 🧑‍💻 **4 года в IT**, основной фокус на frontend
+- 🎓 **2 года наставником в Codify**: 21 выпущенная группа, 340+ учеников
+- 🤖 Пишу Telegram-ботов на **Telegraf** и автоматизацию на Node.js
+- 🎮 Делаю игровые системы и интерфейсы для **Roblox** на Lua
+- 📚 Сейчас изучаю продвинутый TypeScript и архитектуру бэкенда
 
 ---
 
-## 🎯 Goals
+## 🛠 Технологии
 
-* Build powerful web applications
-* Create unique Telegram bots
-* Develop Roblox projects
-* Grow as a FullStack Engineer
+| Направление | Стек |
+|:--|:--|
+| 🌐 **Frontend** | `JavaScript` `TypeScript` `React` `Next.js` `HTML5` `CSS3` `SCSS` |
+| ⚙️ **Backend и API** | `Node.js` `REST API` `Fetch` `Axios` `Telegram Bot API` `Telegraf` |
+| 🎮 **Roblox** | `Lua` `Roblox Studio` `Game Systems` `UI Logic` |
+| 🧰 **Инструменты** | `Git` `GitHub` `VS Code` `Postman` `Docker` `Docker Compose` `npm` |
 
 ---
+
+## 📌 Избранные проекты
+
+<!-- Замени заглушки на реальные проекты: название, описание, стек, ссылка. -->
+
+| Проект | Описание | Стек |
+|:--|:--|:--|
+| [**Название проекта**](https://github.com/AKHMED-SARTOV) | Что делает и для кого | `TypeScript` `React` |
+| [**Telegram-бот**](https://github.com/AKHMED-SARTOV) | Что делает бот | `Node.js` `Telegraf` |
+| [**Roblox-проект**](https://github.com/AKHMED-SARTOV) | Что за игра или система | `Lua` |
+
+---
+
+## 🌱 Сейчас изучаю
+
+- Advanced TypeScript
+- Архитектура бэкенда и FullStack
+- AI и автоматизация
+- Робототехника и embedded
+
+---
+
+## 🎯 Цели
+
+- [ ] Вырасти до FullStack-инженера
+- [ ] Запустить собственные продукты: веб-приложения и Telegram-ботов
+- [ ] Выпускать новых разработчиков и дальше расти как наставник
+
+---
+
+## 📫 Связаться
+
+| | |
+|:--|:--|
+| **Telegram** | [@tutoshi](https://t.me/tutoshi) |
+| **Email** | akhmedturan@gmail.com |
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+*Открыт к интересным проектам и сотрудничеству* 🤝
 
 </div>
